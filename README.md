@@ -17,7 +17,7 @@
 ## ⚙ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ab-costa&show_icons=true&theme=vision-friendly-dark" alt="ab-costa's stats" />
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=abcosta&show_icons=true&theme=vision-friendly-dark" alt="ab-costa's stats" />
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab-costa&layout=compact&theme=vision-friendly-dark" alt="ab-costa's stats" />
 </p>
 
