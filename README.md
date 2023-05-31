@@ -1,4 +1,4 @@
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="40px" />, I'm Alessandro Costa</h1>
+<h1 align="left">Hi dear<img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="40px" />, I'm Alessandro Costa</h1>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ab-costa&color=yellow" alt="Profile views" /></p>
 
